@@ -1,9 +1,5 @@
 ## Intro
 
-### Init the vite project
-
-`npm init vite`
-
 ### Install the package u need
 `npm install`
 
